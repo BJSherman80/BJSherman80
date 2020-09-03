@@ -1,16 +1,15 @@
 ### Hello, all! Welcome to Brett Sherman's GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 
 ### Here are some facts about me...
-
+- Pronouns: He/Him
 - 📖 studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
-- 👨🏼‍🎓 I have a degree in Political Science and Pre Law. 
+- 👨🏼‍🎓 I have a bachelors degree in Political Science and Pre Law. 
 - 🤓 I always have a book by my side, ask me for a book recommendation!!
-- 🏔 Living in beautiful Durango, CO enjoying the outdoors ⚾️  ⛳️. 🏂. 🧗. 
-- 💬 Ask me about founding a startup company!
-- 😄 Pronouns: He/Him
+- 💬 Ask me about: Founding a startup company!
+- Pronouns: He/Him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BJSherman80&show_icons=true&theme=solarized-light)](https://github.com/BJSherman80/github-readme-stats)
-![Brett's github stats](https://github-readme-stats.vercel.app/api?username=BJSHerman80&show_icons=true&theme=solarized-light)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BJSherman80&show_icons=true&theme=default)](https://github.com/BJSherman80/github-readme-stats)
+![Brett's github stats](https://github-readme-stats.vercel.app/api?username=BJSHerman80&show_icons=true&theme=default)
 
 ### Main Tools and languages I use: 
 
