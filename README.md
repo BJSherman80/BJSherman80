@@ -28,7 +28,7 @@
 <br />
 
 [linkedin]: https://www.linkedin.com/in/brettshermanll/
-[Gmail]: https://www.linkedin.com/in/brettshermanll/
+[Gmail]: bjsherman80@gmail.com
 
 
 
