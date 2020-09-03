@@ -22,6 +22,11 @@
 
 [<img align="left" alt="Brett' | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Brett' | Gmail" width="22px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/640px-Gmail_Icon.svg.png" />][Gmail]
+
+<br />
+
+<br />
+
 [linkedin]: https://www.linkedin.com/in/brettshermanll/
 [Gmail]: https://www.linkedin.com/in/brettshermanll/
 
