@@ -15,7 +15,7 @@
 ### Main Tools and languages I use: 
 
 <img align="left" alt="ruby photo" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" /><img align="left" alt="html photo" height="35px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /><img align="left" alt="css photo" height="35px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left" height="35px" width="30px" src=https://eggerapps.at/pgcommander/img/pg-commander-icon.png /> 
-src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /><img align="left" height="35px" width="30px" src=https://eggerapps.at/pgcommander/img/pg-commander-icon.png /> 
+src=https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcR4pNu3eSGVO8fpqpTyp90G4w5gdHGvJJEEXw&usqp=CAU /><img align="left" height="35px" width="30px" src=https://eggerapps.at/pgcommander/img/pg-commander-icon.png /> 
 
 <!--
 **BJSherman80/BJSherman80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
