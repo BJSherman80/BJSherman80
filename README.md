@@ -18,6 +18,14 @@
 <img align="left" height="35px" width="30px" src=https://eggerapps.at/pgcommander/img/pg-commander-icon.png /> 
 <img align="left" alt="ruby photo" width="22px" src="https://camo.githubusercontent.com/94fa83e498c5e132e5ce0b082b262ad29e79cd6d/68747470733a2f2f63646e2e6a7364656c6976722e6e65742f6e706d2f73696d706c652d69636f6e734076332f69636f6e732f736c61636b2e737667" /><br/>
 
+### 📫 Contact Info
+
+[<img align="left" alt="Brett' | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Brett' | Gmail" width="22px" src= "https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/Gmail_Icon.svg/640px-Gmail_Icon.svg.png" />][Gmail]
+[linkedin]: https://www.linkedin.com/in/brettshermanll/
+[Gmail]: https://www.linkedin.com/in/brettshermanll/
+
+
 
 <!--
 **BJSherman80/BJSherman80** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
