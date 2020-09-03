@@ -1,6 +1,5 @@
-### Hello, all! Welcome to Brett Sherman's GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-<img href="https://ibb.co/y5gXRmL"><img src="https://i.ibb.co/BjTtPH8/Turing-lnkdn-banner.png" alt="Turing-lnkdn-banner" border="0"/>
-### Here are some facts about me...
+### Welcome to Brett Sherman's GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+## Here are some facts about me...
 - Pronouns: He/Him
 - 📖 studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
 - 👨🏼‍🎓 I have a bachelors degree in Political Science and Pre Law. 
@@ -11,7 +10,7 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BJSherman80&show_icons=true&theme=default)](https://github.com/BJSherman80/github-readme-stats)
 ![Brett's github stats](https://github-readme-stats.vercel.app/api?username=BJSHerman80&show_icons=true&theme=default)
 
-### Main Tools and languages I use: 
+## Main Tools and languages I use: 
 
 <img align="left" alt="ruby photo" width="22px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/ruby/ruby.png" />
 <img align="left" alt="html photo" height="35px" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
