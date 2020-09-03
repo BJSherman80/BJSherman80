@@ -9,8 +9,8 @@
 - 💬 Ask me about founding a startup company!
 - 😄 Pronouns: He/Him
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BJSherman80&show_icons=true&theme=vision-friendly-dark)](https://github.com/BJSherman80/github-readme-stats)
-![Brett's github stats](https://github-readme-stats.vercel.app/api?username=BJSHerman80&show_icons=true&theme=vision-friendly-dark)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BJSherman80&show_icons=true&theme=solarized-light)](https://github.com/BJSherman80/github-readme-stats)
+![Brett's github stats](https://github-readme-stats.vercel.app/api?username=BJSHerman80&show_icons=true&theme=solarized-light)
 
 ### Main Tools and languages I use: 
 
