@@ -5,7 +5,7 @@
 - 📖 studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
 - 👨🏼‍🎓 I have a degree in Political Science and Pre Law. 
 - 🤓 I always have a book by my side, ask me for a book recommendation!!
-- 🏔 living in beautiful Durango, CO enjoying the outdoors ⚾️  ⛳️. 🏂. 🧗. 
+- 🏔 Living in beautiful Durango, CO enjoying the outdoors ⚾️  ⛳️. 🏂. 🧗. 
 - 💬 Ask me about founding a startup company!
 - 😄 Pronouns: He/Him
 
