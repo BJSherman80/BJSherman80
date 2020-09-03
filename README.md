@@ -1,5 +1,5 @@
 ### Hello, all! Welcome to Brett Sherman's GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
-
+<img href="https://ibb.co/y5gXRmL"><img src="https://i.ibb.co/BjTtPH8/Turing-lnkdn-banner.png" alt="Turing-lnkdn-banner" border="0"/>
 ### Here are some facts about me...
 - Pronouns: He/Him
 - 📖 studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
