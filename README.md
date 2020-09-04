@@ -5,7 +5,6 @@
 - 👨🏼‍🎓 I have a bachelors degree in Political Science and Pre Law. 
 - 🤓 I always have a book by my side, ask me for a book recommendation!!
 - 💬 Ask me about: Founding a startup company!
-- Pronouns: He/Him
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BJSherman80&show_icons=true&theme=default)](https://github.com/BJSherman80/github-readme-stats)
 ![Brett's github stats](https://github-readme-stats.vercel.app/api?username=BJSHerman80&show_icons=true&theme=default)
