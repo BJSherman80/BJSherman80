@@ -25,7 +25,7 @@
 <br />
 <br />
 [Gmail] =  bjsherman80@gmail.com
-<br />
+<br>
 [linkedin]: https://www.linkedin.com/in/brettshermanll/
 
 
