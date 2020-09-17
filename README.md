@@ -19,6 +19,7 @@
 
 
 ### Contact Info
+
 Gmail =  bjsherman80@gmail.com
 <br>
 Linkedin = https://www.linkedin.com/in/brettshermanll/
