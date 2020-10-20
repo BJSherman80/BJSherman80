@@ -1,7 +1,7 @@
 ## Welcome to Brett Sherman's GitHub profile! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ### Here are some facts about me...
 - Pronouns: He/Him
-- 📖 studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
+- 📖 Studying at **Turing School of Software & Design** out of **Denver, Colorado** (backend program)
 - 👨🏼‍🎓 I have a bachelors degree in Political Science and Pre-Law. 
 - 🤓 I always have a book by my side, ask me for a book recommendation!!
 - 💬 Ask me about: Anything startup company related!!
