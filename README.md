@@ -6,8 +6,6 @@
 - 🤓 I always have a book by my side, ask me for a book recommendation!!
 - 💬 Ask me about: Anything startup company related!!
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BJSherman80&show_icons=true&theme=default)](https://github.com/BJSherman80/github-readme-stats)
-![Brett's github stats](https://github-readme-stats.vercel.app/api?username=BJSHerman80&show_icons=true&theme=default)
 
 ### Main Tools and languages I use: 
 
